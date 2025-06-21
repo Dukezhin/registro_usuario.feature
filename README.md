@@ -1,1 +1,1 @@
-# registro_usuario.feature
+# acepptance_test.feature
